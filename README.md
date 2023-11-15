@@ -1,15 +1,15 @@
 # <span style="color:#F55552"> ***<BOLETINES PROGRAMACIÓN/>*** </span>  
 <br>
 
-| ***Boletín 2***  | | |
-| ------------- | ------------- | ------------- |
-| [Ejercicio 1](Boletin02/boletin02_01/src/boletin2_1/)  | [Ejercicio 2](Boletin02/boletin02_02/src/boletin2_2/)  | [Ejercicio 3](Boletin02/boletin02_03/src/boletin2_3/) |
-| [Ejercicio 4](Boletin02/boletin02_04/src/boletin2_4/)  | [Ejercicio 5](Boletin02/Boletin02_05/src/boletin2_5/)  |  |
+| ***Boletín 2***  |                                                               |                                                               |
+| ------------- |---------------------------------------------------------------|---------------------------------------------------------------|
+| [Ejercicio 1](BOLETINES/boletin02/boletin02_1/src/boletin2_1)  | [Ejercicio 2](BOLETINES/boletin02/boletin02_2/src/boletin2_2) | [Ejercicio 3](BOLETINES/boletin02/boletin02_3/src/boletin2_3) |
+| [Ejercicio 4](BOLETINES/boletin02/boletin02_4/src/boletin2_4)  | [Ejercicio 5](Boletin02/Boletin02_05/src/boletin2_5/)         |                                                               |
 
 | ***Boletín 3***  |  |  |
 |---|---|---|
 | [ Ejercicio 1 ]( Boletin03/Boletin03_01/src/boletin3_1/ ) | [ Ejercicio 2 ]( Boletin03/Boletin03_02/src/boletin3_2/ ) | [ Ejercicio 3 ]( Boletin03/Boletin03_03/src/boletin3_3/ ) |
-| [ Ejercicio 4 ]( Boletin03/Boletin03_04/src/boletin3_4/ ) | [ Ejercicio 5 ]( Boletin03/Boletin03_05/src/boletin3_5/ ) |  |
+| [ Ejercicio 4 ]( Boletin03/Boletin03_04/src/boletin3_4/ ) | [ Ejercicio 5 ]( BOLETINES/boletin02/boletin02_5/src/boletin2_5 ) |  |
 
 
 | ***Boletín 4*** |
